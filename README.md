@@ -1,8 +1,3 @@
-
-# Python with arduino Serial comunication
-
-Projeto simples para demonstrar a comunicação entre Python e Arduino Uno através da porta serial USB.
-
 # Python with arduino Serial comunication
 
 Projeto simples para demonstrar a comunicação entre Python e Arduino Uno através da porta serial USB. Nesse exemplo pra representar o output foi usado uma fita de led rgb endereçavél, mas você pode trocar por um led
